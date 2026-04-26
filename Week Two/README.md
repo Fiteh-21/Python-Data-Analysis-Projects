@@ -1,6 +1,8 @@
 # 💰 Monthly Finance Pulse
 
-## 📌 Overview
+## 📊 Python for Data Analysis | Week 2 Project
+
+### 📌 Overview
 
 **Monthly Finance Pulse** is a Python-based data analysis script that simulates and analyzes 30 days of personal spending using **NumPy**. It provides insights into spending behavior, highlights anomalies, and presents a structured financial summary.
 
@@ -8,7 +10,7 @@ This project is ideal for practicing **data analysis, array manipulation, and re
 
 ---
 
-## ⚙️ Features
+### ⚙️ Features
 
 - 📊 Simulates 30 days of daily spending data
 - 🗓️ Organizes data into a **calendar view (4 weeks × 7 days)**
@@ -23,14 +25,14 @@ This project is ideal for practicing **data analysis, array manipulation, and re
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - Python 3
 - NumPy
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```
 monthly-finance-pulse/
@@ -41,7 +43,7 @@ monthly-finance-pulse/
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+### 🧠 Key Concepts Demonstrated
 
 - NumPy array creation and reshaping
 - Statistical analysis using `.mean()`, `.sum()`, `.argmax()`
