@@ -1,5 +1,7 @@
 # Cozy Bean — Retail Operations & Analytics Dashboard
 
+## 📊 Python for Data Analysis | Week 5 Project
+
 ## 📊 Project Overview
 
 This project serves as an executive-level Exploratory Data Analysis (EDA) dashboard engineered around the multi-unit operations of **Cozy Bean Coffee**. The analysis moves from raw operational logs across four distinct commercial footprints (Airport, Mall, Suburb, and City Center) into high-dimensional grouping, multi-variable data reshaping, and vectorized statistical auditing.
