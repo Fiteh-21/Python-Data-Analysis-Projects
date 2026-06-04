@@ -1,6 +1,6 @@
 # Python-Data-Analysis-Projects
 
-This repository contains weekly, hands-on data analysis projects completed as part of the TechSkillUp Programme. The work demonstrates practical application of Python for data analysis, from foundational programming concepts to end-to-end data workflows.
+This repository contains weekly, hands-on data analysis projects completed as part of the **TechSkillUp Programme**. The work demonstrates practical application of Python for data analysis, from foundational programming concepts to end-to-end data workflows.
 
 Each project showcases newly acquired skills and explores real-world examples using Python tooling and data analysis techniques.
 
